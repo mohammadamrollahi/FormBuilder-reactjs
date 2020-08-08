@@ -3,13 +3,17 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100vh;
+  height: 90vh;
 }
 @media only screen and (min-width: "600px") {
   .MuiPaper-root {
     width: 50%;
     margin:0 auto 0;
   }
+  .formRow
+  {
+    height: 100vh;
+    }
 
 }
 .resetButton {
