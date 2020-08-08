@@ -15,13 +15,15 @@
         font-family: yekan;
         cursor: pointer;
         border: none;
+        margin:0 30px
 }
 .optionButtonDiv{
     width:100%;
     height:50vh;
+    margin: 0 auto 0;
     display: flex;
-    flex-direction: column;
-   
+    // flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 .questionText
@@ -31,4 +33,16 @@ color: #e3e3e3;
 font-size: 25pt;
 font-family: yekan;
 margin: 0;
+}
+@media only screen and (max-width:'500px'){
+    .optionButtonDiv{
+
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .optionButton
+{
+    margin: 10px 40px;
+}
 }

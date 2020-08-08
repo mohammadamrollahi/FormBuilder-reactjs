@@ -39,7 +39,7 @@
 .mycontainer{
   height: 100vh;
   font-family: yekan;
-}
+} 
 @font-face{
   font-family:yekan;
   src:url("./Yekan.ttf")

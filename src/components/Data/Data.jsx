@@ -7,7 +7,7 @@ function Data({step}) {
     let initialData={
         organization_name:"",
         organization_name_fa:"",
-        logo_url:"https://1000logos.net/wp-content/uploads/2018/08/Huawei-Logo-768x432.png",
+        logo_url:"https://upload.wikimedia.org/wikipedia/commons/3/3a/Digikala.svg",
         question:[
         {
             id:"modate ersal",
