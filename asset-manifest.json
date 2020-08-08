@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FormBuilder-reactjs/static/css/main.219687d2.chunk.css",
+    "main.js": "/FormBuilder-reactjs/static/js/main.cae4b8a0.chunk.js",
+    "main.js.map": "/FormBuilder-reactjs/static/js/main.cae4b8a0.chunk.js.map",
+    "runtime-main.js": "/FormBuilder-reactjs/static/js/runtime-main.622982cf.js",
+    "runtime-main.js.map": "/FormBuilder-reactjs/static/js/runtime-main.622982cf.js.map",
+    "static/js/2.c2394c6e.chunk.js": "/FormBuilder-reactjs/static/js/2.c2394c6e.chunk.js",
+    "static/js/2.c2394c6e.chunk.js.map": "/FormBuilder-reactjs/static/js/2.c2394c6e.chunk.js.map",
+    "index.html": "/FormBuilder-reactjs/index.html",
+    "precache-manifest.a4612b82f7874a193376ab0689bf49ab.js": "/FormBuilder-reactjs/precache-manifest.a4612b82f7874a193376ab0689bf49ab.js",
+    "service-worker.js": "/FormBuilder-reactjs/service-worker.js",
+    "static/css/main.219687d2.chunk.css.map": "/FormBuilder-reactjs/static/css/main.219687d2.chunk.css.map",
+    "static/js/2.c2394c6e.chunk.js.LICENSE.txt": "/FormBuilder-reactjs/static/js/2.c2394c6e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FormBuilder-reactjs/static/media/Yekan.52ce4de2.ttf",
+    "static/media/logo.svg": "/FormBuilder-reactjs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.622982cf.js",
+    "static/js/2.c2394c6e.chunk.js",
+    "static/css/main.219687d2.chunk.css",
+    "static/js/main.cae4b8a0.chunk.js"
+  ]
+}
