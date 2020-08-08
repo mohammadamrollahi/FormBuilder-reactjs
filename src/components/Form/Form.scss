@@ -1,0 +1,78 @@
+.formRow {
+  font-family: yekan !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+@media only screen and (min-width: "600px") {
+  .MuiPaper-root {
+    width: 50%;
+    margin:0 auto 0;
+  }
+
+}
+.resetButton {
+  background-color: white !important;
+}
+.stepper {
+  background-color: transparent !important;
+}
+.n {
+  font-family: yekan !important;
+}
+.Mui-disabled {
+  border: none !important;
+}
+.MuiStepConnector-line {
+  background-color: transparent !important;
+}
+// .MuiStep-root
+// {
+//     width: 10px !important;
+// }
+
+// .MuiStepLabel-iconContainer{
+//     div{
+//         width: 20px !important;
+//         height: 20px !important;
+
+//     }
+// }
+// .MuiStepConnector-root
+// {
+//     top:10px !important;
+// }
+.MuiStepConnector-line {
+  height: 10px !important;
+}
+// .MuiStepConnector-root
+// {
+
+// }
+.backButton-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.backButton {
+  background-image: linear-gradient(
+    136deg,
+    rgb(242, 113, 33) 0%,
+    rgb(233, 64, 87) 50%,
+    rgb(138, 35, 135) 100%
+  ) !important;
+  color: white !important;
+  font-family: yekan !important;
+}
+.Mui-disabled {
+  // display: none !important;
+}
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  .footerLogo {
+    width: 150px;
+  }
+}
