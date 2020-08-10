@@ -1,10 +1,7 @@
 import React from "react";
-import logo from "./logo.svg";
 import Data from "./components/Data/Data";
-import Form from "./components/Form/Form";
 import "./App.css";
-import styled from "styled-components";
-import { Container,Row,Col } from "reactstrap";
+import { Container} from "reactstrap";
 
 function App() {
   return (

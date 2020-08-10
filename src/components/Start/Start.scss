@@ -22,21 +22,49 @@
     {
     
     }
-    .startButton
-    {
+    // .startButton
+    // {
         
-            width: 203px;
-            height: 75px;
-            border-radius: 44px;
+    //         width: 203px;
+    //         height: 75px;
+    //         border-radius: 44px;
+    //         background: rgb(241,150,182);
+    //         background: linear-gradient(111deg, rgba(241,150,182,1) 0%, rgba(239,140,125,1) 98%);
+    //         border-image-slice: 1;
+    //         background-origin: border-box;
+    //         background-clip: content-box, border-box;
+    //         border: none;
+    //         font-family: yekan;
+    //         font-size: 24pt;
+    //         color: white;
+    //         outline: none;
+    // }
 
-            background: rgb(241,150,182);
-            background: linear-gradient(111deg, rgba(241,150,182,1) 0%, rgba(239,140,125,1) 98%);
-            border-image-slice: 1;
-            background-origin: border-box;
-            background-clip: content-box, border-box;
-            border: none;
-            font-family: yekan;
-            font-size: 24pt;
-            color: white;
-            outline: none;
-    }
+    .startButton {
+        width: 140px;
+        height: 45px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 11px;
+        text-transform: uppercase;
+        
+        font-weight: 500;
+        color: #fff;
+        
+        border: none;
+        border-radius: 45px;
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease 0s;
+        cursor: pointer;
+        outline: none;
+        background: rgb(241,150,182);
+                background: linear-gradient(111deg, rgba(241,150,182,1) 0%, rgba(239,140,125,1) 98%);
+                font-family: yekan;
+                font-size: 17pt;
+        }
+      
+      .startButton:hover {
+        background-color: #2EE59D;
+        box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+        color: #000;
+        transform: translateY(-7px);
+      }
