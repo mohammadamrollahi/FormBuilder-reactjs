@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/FormBuilder-reactjs/static/css/main.0f8e5cbf.chunk.css",
-    "main.js": "/FormBuilder-reactjs/static/js/main.ccf2c412.chunk.js",
-    "main.js.map": "/FormBuilder-reactjs/static/js/main.ccf2c412.chunk.js.map",
+    "main.css": "/FormBuilder-reactjs/static/css/main.10f6b5f3.chunk.css",
+    "main.js": "/FormBuilder-reactjs/static/js/main.49e0d808.chunk.js",
+    "main.js.map": "/FormBuilder-reactjs/static/js/main.49e0d808.chunk.js.map",
     "runtime-main.js": "/FormBuilder-reactjs/static/js/runtime-main.622982cf.js",
     "runtime-main.js.map": "/FormBuilder-reactjs/static/js/runtime-main.622982cf.js.map",
-    "static/js/2.c2394c6e.chunk.js": "/FormBuilder-reactjs/static/js/2.c2394c6e.chunk.js",
-    "static/js/2.c2394c6e.chunk.js.map": "/FormBuilder-reactjs/static/js/2.c2394c6e.chunk.js.map",
+    "static/js/2.8ae74011.chunk.js": "/FormBuilder-reactjs/static/js/2.8ae74011.chunk.js",
+    "static/js/2.8ae74011.chunk.js.map": "/FormBuilder-reactjs/static/js/2.8ae74011.chunk.js.map",
     "index.html": "/FormBuilder-reactjs/index.html",
-    "precache-manifest.697db1e54e7021a80b995a360583b6bc.js": "/FormBuilder-reactjs/precache-manifest.697db1e54e7021a80b995a360583b6bc.js",
+    "precache-manifest.3889e1ee83b8a29917384b6319f8955d.js": "/FormBuilder-reactjs/precache-manifest.3889e1ee83b8a29917384b6319f8955d.js",
     "service-worker.js": "/FormBuilder-reactjs/service-worker.js",
-    "static/css/main.0f8e5cbf.chunk.css.map": "/FormBuilder-reactjs/static/css/main.0f8e5cbf.chunk.css.map",
-    "static/js/2.c2394c6e.chunk.js.LICENSE.txt": "/FormBuilder-reactjs/static/js/2.c2394c6e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/FormBuilder-reactjs/static/media/Yekan.52ce4de2.ttf",
-    "static/media/logo.svg": "/FormBuilder-reactjs/static/media/logo.5d5d9eef.svg"
+    "static/css/main.10f6b5f3.chunk.css.map": "/FormBuilder-reactjs/static/css/main.10f6b5f3.chunk.css.map",
+    "static/js/2.8ae74011.chunk.js.LICENSE.txt": "/FormBuilder-reactjs/static/js/2.8ae74011.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FormBuilder-reactjs/static/media/Yekan.52ce4de2.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.622982cf.js",
-    "static/js/2.c2394c6e.chunk.js",
-    "static/css/main.0f8e5cbf.chunk.css",
-    "static/js/main.ccf2c412.chunk.js"
+    "static/js/2.8ae74011.chunk.js",
+    "static/css/main.10f6b5f3.chunk.css",
+    "static/js/main.49e0d808.chunk.js"
   ]
 }
