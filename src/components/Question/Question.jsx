@@ -7,9 +7,8 @@ function Question({question,handleNext,output,setoutput}) {
     }
     return (
         <div>
-            <p className="questionText"> {question.text}</p>
-            
-            <div className="optionButtonDiv" >
+            <p className="questionText"> {question.text}</p>         
+            <div className="optionButtonDiv">
             {question.options.map(item=>
                 <div className="optionButton" onClick={()=>{AddToOutput(item); handleNext()}} >
                     {item.text}

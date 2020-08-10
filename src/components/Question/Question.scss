@@ -1,48 +1,88 @@
-.optionButton
-{
-    
-       
-       font-size: 24pt;
-       color: white;
-       display: flex;
-       justify-content: center;
-       align-items: center;
-        height: 46px;
-        border-radius: 44px;
-        background-color: #df5e88;
-        margin-top: 20px;
-        padding: 0px 20px;
-        font-family: yekan;
-        cursor: pointer;
-        border: none;
-        margin:0 30px
+.optionButton {
+
+
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #df5e88;
+    text-align: center;
+    transition: all 0.2s;
+    animation: bouncy 5s infinite linear;
+    position: relative;
+    cursor: pointer;
+    font-family: yekan;
+    margin:0 20px;
+    font-size: 17pt;
 }
-.optionButtonDiv{
-    width:100%;
-    height:50vh;
+
+@keyframes bouncy {
+    0% {
+        top: 0em
+    }
+
+    40% {
+        top: 0em
+    }
+
+    43% {
+        top: -0.9em
+    }
+
+    46% {
+        top: 0em
+    }
+
+    48% {
+        top: -0.4em
+    }
+
+    50% {
+        top: 0em
+    }
+
+    100% {
+        top: 0em;
+    }
+}
+
+.optionButton:hover {
+    background-color: #d47997;
+    border: 2px solid white;
+}
+
+.optionButtonDiv {
+    width: 100%;
+    height: 50vh;
     margin: 0 auto 0;
     display: flex;
     // flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.questionText
-{
+
+.questionText {
     text-align: center;
-color: #e3e3e3;
-font-size: 25pt;
-font-family: yekan;
-margin: 0;
+    color: #e3e3e3;
+    font-size: 25pt;
+    font-family: yekan;
+    margin: 0;
 }
-@media only screen and (max-width:'500px'){
-    .optionButtonDiv{
+
+@media only screen and (max-width:'500px') {
+    .optionButtonDiv {
 
         flex-direction: column;
         justify-content: center;
         align-items: flex-end;
     }
-    .optionButton
-{
-    margin: 10px 40px;
+
+    .optionButton {
+        margin: 10px 40px;
+    }
 }
-}
+
